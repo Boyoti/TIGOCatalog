@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_category">
+    <sc_category action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Offres Solutions Voix de la catégorie TIGO Business.</description>
+        <entitlement_script/>
+        <header_icon/>
+        <homepage_image/>
+        <homepage_renderer display_value="Category Items">47ebe8aa3742300054b6a3549dbe5dfa</homepage_renderer>
+        <icon/>
+        <image/>
+        <location/>
+        <mobile_hide_description>true</mobile_hide_description>
+        <mobile_picture/>
+        <mobile_subcategory_render_type>card</mobile_subcategory_render_type>
+        <module/>
+        <order>0</order>
+        <parent display_value="TIGO Business">b786692cdbf34300ee0bf91ebf961937</parent>
+        <roles/>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <show_in_cms>false</show_in_cms>
+        <sys_class_name>sc_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-18 09:10:38</sys_created_on>
+        <sys_id>5e7961acdbf34300ee0bf91ebf961925</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Solutions Voix</sys_name>
+        <sys_package display_value="TIGOCatalog" source="x_183477_tigocatal">d3d3ad64dbf34300ee0bf91ebf9619e9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TIGOCatalog">d3d3ad64dbf34300ee0bf91ebf9619e9</sys_scope>
+        <sys_update_name>sc_category_5e7961acdbf34300ee0bf91ebf961925</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-18 09:10:38</sys_updated_on>
+        <title>Solutions Voix</title>
+    </sc_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=5e7961acdbf34300ee0bf91ebf961925"/>
+</record_update>

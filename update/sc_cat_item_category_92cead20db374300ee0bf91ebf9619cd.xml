@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Internet mobile">399c6decdbf34300ee0bf91ebf961947</sc_cat_item>
+        <sc_category display_value=" Solutions de Connectivité">fc87e9e8dbf34300ee0bf91ebf9619c4</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-18 09:30:18</sys_created_on>
+        <sys_id>92cead20db374300ee0bf91ebf9619cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name> Solutions de Connectivité.Internet mobile</sys_name>
+        <sys_package display_value="TIGOCatalog" source="x_183477_tigocatal">d3d3ad64dbf34300ee0bf91ebf9619e9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TIGOCatalog">d3d3ad64dbf34300ee0bf91ebf9619e9</sys_scope>
+        <sys_update_name>sc_cat_item_category_92cead20db374300ee0bf91ebf9619cd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-18 09:30:18</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>
