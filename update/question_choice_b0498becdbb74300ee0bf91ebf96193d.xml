@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <misc>0</misc>
+        <order>100</order>
+        <question display_value="Type Demandeur :">901643acdbb74300ee0bf91ebf9619dc</question>
+        <rec_misc>0</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-18 16:06:38</sys_created_on>
+        <sys_id>b0498becdbb74300ee0bf91ebf96193d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Entreprise</sys_name>
+        <sys_package display_value="TIGOCatalog" source="x_183477_tigocatal">d3d3ad64dbf34300ee0bf91ebf9619e9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TIGOCatalog">d3d3ad64dbf34300ee0bf91ebf9619e9</sys_scope>
+        <sys_update_name>question_choice_b0498becdbb74300ee0bf91ebf96193d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-18 16:06:38</sys_updated_on>
+        <text>Entreprise</text>
+        <value>u_entreprise</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=b0498becdbb74300ee0bf91ebf96193d"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>misc</field>
+        <id>b0498becdbb74300ee0bf91ebf96193d</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-18 16:06:38</sys_created_on>
+        <sys_id>84898bacdbb74300ee0bf91ebf9619e6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-18 16:06:38</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_misc</field>
+        <id>b0498becdbb74300ee0bf91ebf96193d</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-18 16:06:38</sys_created_on>
+        <sys_id>4c898bacdbb74300ee0bf91ebf9619e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-18 16:06:38</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>
