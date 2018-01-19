@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Internet Fixe">568fa5ecdbf34300ee0bf91ebf96197f</catalog_item>
+        <catalog_variable>IO:ce48baa4dbb74300ee0bf91ebf961939</catalog_variable>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>false</mandatory>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-18 17:26:04</sys_created_on>
+        <sys_id>c67b5f68dbf74300ee0bf91ebf96197b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_prenom</sys_name>
+        <sys_package display_value="TIGOCatalog" source="x_183477_tigocatal">d3d3ad64dbf34300ee0bf91ebf9619e9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TIGOCatalog">d3d3ad64dbf34300ee0bf91ebf9619e9</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_c67b5f68dbf74300ee0bf91ebf96197b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-18 17:26:04</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Actions TYPE">990b5b68dbf74300ee0bf91ebf961978</ui_policy>
+        <variable>u_prenom</variable>
+        <variable_set/>
+        <visible>false</visible>
+    </catalog_ui_policy_action>
+</record_update>
