@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="TIGO Business">82e5c59adb370300ee0bf91ebf9619da</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter table="sc_req_item">cat_item=d91171a0db374300ee0bf91ebf9619b1^EQ<item display_table="sc_cat_item" display_value="Telephonie Mobile" endquery="false" field="cat_item" goto="false" newquery="false" operator="=" or="false" value="d91171a0db374300ee0bf91ebf9619b1"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Telephonie Mobile</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>sc_req_item</name>
+        <order>300</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-23 17:10:07</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>24d7c51edb370300ee0bf91ebf96199b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Telephonie Mobile</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="TIGOCatalog" source="x_183477_tigocatal">d3d3ad64dbf34300ee0bf91ebf9619e9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TIGOCatalog">d3d3ad64dbf34300ee0bf91ebf9619e9</sys_scope>
+        <sys_update_name>sys_app_module_24d7c51edb370300ee0bf91ebf96199b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-23 17:10:07</sys_updated_on>
+        <timeline_page/>
+        <title>Telephonie Mobile</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

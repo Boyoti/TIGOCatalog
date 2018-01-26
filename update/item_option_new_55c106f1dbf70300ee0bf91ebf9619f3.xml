@@ -3,7 +3,7 @@
     <item_option_new action="INSERT_OR_UPDATE">
         <active>true</active>
         <attributes/>
-        <cat_item display_value="Telephonie Mobile">d91171a0db374300ee0bf91ebf9619b1</cat_item>
+        <cat_item display_value="Izi Pro">59423d6cdbf34300ee0bf91ebf96190e</cat_item>
         <category/>
         <choice_direction>down</choice_direction>
         <choice_field/>
@@ -18,7 +18,7 @@
         <do_not_select_first>false</do_not_select_first>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <example_text>(00 221) 888 88 88</example_text>
+        <example_text>Entreprise / Business</example_text>
         <field/>
         <global>false</global>
         <help_tag>More information</help_tag>
@@ -37,11 +37,11 @@
         <map_to_field>false</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
-        <name>u_telephone</name>
-        <order>800</order>
+        <name>u_nom_entreprise</name>
+        <order>400</order>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
-        <question_text>Téléphone :</question_text>
+        <question_text>Nom Entreprise :</question_text>
         <read_roles/>
         <rec_lookup_price/>
         <rec_price_if_checked>0</rec_price_if_checked>
@@ -58,16 +58,16 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-01-18 17:00:13</sys_created_on>
-        <sys_id>6e855ba4dbf74300ee0bf91ebf96195e</sys_id>
+        <sys_created_on>2018-01-22 08:06:34</sys_created_on>
+        <sys_id>55c106f1dbf70300ee0bf91ebf9619f3</sys_id>
         <sys_mod_count>1</sys_mod_count>
-        <sys_name>Téléphone :</sys_name>
+        <sys_name>Nom Entreprise :</sys_name>
         <sys_package display_value="TIGOCatalog" source="x_183477_tigocatal">d3d3ad64dbf34300ee0bf91ebf9619e9</sys_package>
         <sys_policy/>
         <sys_scope display_value="TIGOCatalog">d3d3ad64dbf34300ee0bf91ebf9619e9</sys_scope>
-        <sys_update_name>item_option_new_6e855ba4dbf74300ee0bf91ebf96195e</sys_update_name>
+        <sys_update_name>item_option_new_55c106f1dbf70300ee0bf91ebf9619f3</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-01-22 08:45:47</sys_updated_on>
+        <sys_updated_on>2018-01-22 08:33:08</sys_updated_on>
         <table/>
         <tooltip/>
         <type>6</type>
@@ -84,39 +84,39 @@
         <visible_summary>true</visible_summary>
         <write_roles/>
     </item_option_new>
-    <sys_translated_text action="delete_multiple" query="documentkey=6e855ba4dbf74300ee0bf91ebf96195e"/>
-    <fx_price action="delete_multiple" query="id=6e855ba4dbf74300ee0bf91ebf96195e"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=55c106f1dbf70300ee0bf91ebf9619f3"/>
+    <fx_price action="delete_multiple" query="id=55c106f1dbf70300ee0bf91ebf9619f3"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>
-        <currency display_value="EUR">EUR</currency>
+        <currency display_value="USD">USD</currency>
         <field>price_if_checked</field>
-        <id>6e855ba4dbf74300ee0bf91ebf96195e</id>
+        <id>55c106f1dbf70300ee0bf91ebf9619f3</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-01-18 17:00:13</sys_created_on>
-        <sys_id>70c55b24dbf74300ee0bf91ebf961940</sys_id>
+        <sys_created_on>2018-01-22 08:06:34</sys_created_on>
+        <sys_id>8bf14af1dbf70300ee0bf91ebf961936</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-01-18 17:00:13</sys_updated_on>
+        <sys_updated_on>2018-01-22 08:06:34</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>
-        <currency display_value="EUR">EUR</currency>
+        <currency display_value="USD">USD</currency>
         <field>rec_price_if_checked</field>
-        <id>6e855ba4dbf74300ee0bf91ebf96195e</id>
+        <id>55c106f1dbf70300ee0bf91ebf9619f3</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-01-18 17:00:13</sys_created_on>
-        <sys_id>38c55b24dbf74300ee0bf91ebf96193f</sys_id>
+        <sys_created_on>2018-01-22 08:06:34</sys_created_on>
+        <sys_id>43f14af1dbf70300ee0bf91ebf961936</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-01-18 17:00:13</sys_updated_on>
+        <sys_updated_on>2018-01-22 08:06:34</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>

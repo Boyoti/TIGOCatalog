@@ -2,15 +2,15 @@
 <record_update table="item_option_new">
     <item_option_new action="INSERT_OR_UPDATE">
         <active>true</active>
-        <attributes>u_particulier</attributes>
-        <cat_item display_value="Téléphonie Mobile">d91171a0db374300ee0bf91ebf9619b1</cat_item>
+        <attributes/>
+        <cat_item display_value="Telephonie Mobile">d91171a0db374300ee0bf91ebf9619b1</cat_item>
         <category/>
         <choice_direction>down</choice_direction>
         <choice_field/>
         <choice_table/>
         <create_roles/>
         <default_html_value/>
-        <default_value>Particulier</default_value>
+        <default_value/>
         <delete_roles/>
         <delivery_plan/>
         <description/>
@@ -23,7 +23,7 @@
         <global>false</global>
         <help_tag>More information</help_tag>
         <help_text/>
-        <include_none>false</include_none>
+        <include_none>true</include_none>
         <instructions/>
         <layout>normal</layout>
         <list_table/>
@@ -60,14 +60,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-01-18 16:55:09</sys_created_on>
         <sys_id>54641324dbf74300ee0bf91ebf9619a2</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>Type Demandeur :</sys_name>
         <sys_package display_value="TIGOCatalog" source="x_183477_tigocatal">d3d3ad64dbf34300ee0bf91ebf9619e9</sys_package>
         <sys_policy/>
         <sys_scope display_value="TIGOCatalog">d3d3ad64dbf34300ee0bf91ebf9619e9</sys_scope>
         <sys_update_name>item_option_new_54641324dbf74300ee0bf91ebf9619a2</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-01-18 16:56:23</sys_updated_on>
+        <sys_updated_on>2018-01-22 09:00:45</sys_updated_on>
         <table/>
         <tooltip/>
         <type>5</type>
